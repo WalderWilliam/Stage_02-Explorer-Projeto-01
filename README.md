@@ -1,6 +1,6 @@
 >Stage_02-Explorer
 
-Repositório com os projetos feitos no Stage 02 do Programa explorer:
+Repositório com os projetos feitos no Stage 02 do Programa Explorer da Rocket Seat:
 
 ## Links dos Projetos:
 
